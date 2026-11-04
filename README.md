@@ -5,13 +5,12 @@ Ez a Python-projekt egy légszennyezettségi adatsor (`air_quality_dataset.csv`)
 A program 5 összetett analitikai kérdésre ad választ a terminálban szövegesen, valamint egy közös elrendezésben 5 grafikont jelenít meg.
 
 
-## Használt Teknológia és Könyvtárak
+## Használt Könyvtárak
 
-- **Python 3.2**
 - **Pandas**: Adatkezelés, adattisztítás, csoportosítás és gördülő átlagok.
 - **NumPy**: Matematikai számítások, Z-score, átlag- és szórásszámítás.
 - **Matplotlib**: Grafikonok és kördiagramok rajzolása.
-- **OS**: Dinamikus fájlútvonal-kezelés
+- **OS**: Fájlútvonal-kezelés
 
 
 ## Telepítés és Futtatás
